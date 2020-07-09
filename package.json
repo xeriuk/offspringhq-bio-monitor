@@ -1,0 +1,27 @@
+{
+  "name": "offspring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cloudscraper": "^4.6.0",
+    "discord.js": "^12.2.0",
+    "lowdb": "^1.0.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeriuk/offspringhq-bio-monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xeriuk/offspringhq-bio-monitor/issues"
+  },
+  "homepage": "https://github.com/xeriuk/offspringhq-bio-monitor#readme"
+}
